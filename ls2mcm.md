@@ -71,15 +71,20 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Enable Tavern Brawl: Disabled
     * Enable Town Thief: Disabled
     * Dragon Attack in City: Disabled
-
+    
+* Immersive Hud (iHUD)
+  - Key press toggles: Enabled
+  - Active Effects ALWAYS On: Enabled
+  - Link ALL SkyUI Widgets: Enabled
+  
 * Immersive Spell Learning
   - Use Fade-To-Black: Disabled
   - Destroy Spell Tomes: Disabled
   - (Personal Preference) Study Time Modifier: 50%
-
+  
 * Lucien
   * Configuration
-    * (Optional, only if using one of the names on the list) Player Name: Pick yours
+    * (Optional, only if using one of the names on the list) Player Name: Pick yours 
 
 * LOTD Settings
   * General
